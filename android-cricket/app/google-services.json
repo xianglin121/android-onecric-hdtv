@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114409590267",
+    "project_id": "crickethdtv-5700b",
+    "storage_bucket": "crickethdtv-5700b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114409590267:android:db16dc7967c8286878cf5e",
+        "android_client_info": {
+          "package_name": "com.onecric.CricketHDTV"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114409590267-ccr58ut95s83n3jfck71qnth0gnknvnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxEnX4jhWZk5_fRwcwavMDqimFhiIMMMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114409590267-ccr58ut95s83n3jfck71qnth0gnknvnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
